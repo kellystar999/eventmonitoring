@@ -1,6 +1,8 @@
 # Event Monitoring Plus
 A lightweight collection of CRM Analytics dashboards for gaining a better understanding of Event Monitoring data.
 
+### [Contact me!](https://t.me/CryptoGround888) 👈click here
+
 ## Installation Instructions
 
 Two important points:
